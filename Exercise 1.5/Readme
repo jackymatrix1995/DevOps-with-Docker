@@ -1,4 +1,4 @@
-Exercise 1.5 : In Progress
+Exercise 1.5 : Completed
 
 $ docker pull devopsdockeruh/simple-web-service:ubuntu
 $ docker pull devopsdockeruh/simple-web-service:alpine
