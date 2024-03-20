@@ -1,0 +1,8 @@
+Exercise 1.5 : In Progress
+
+$ docker pull devopsdockeruh/simple-web-service:ubuntu
+$ docker pull devopsdockeruh/simple-web-service:alpine
+$ docker image ls
+$ docker run -d -it --name Alpine-looper devopsdockeruh/simple-web-service:alpine
+$ docker exec -it Alpine-looper sh
+$ tail -f ./text.log
